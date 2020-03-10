@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+section {
+    height: 100vh!important;
+    background: rgb(199,199,199);
+    display: flex!important; 
+    justify-content: space-around!important;
+    align-items:center!important;
+    flex-direction: column!important;
+}
+
+svg{
+    cursor: pointer;
+}
+
+body {
+    font-family: sans-serif;
+}
